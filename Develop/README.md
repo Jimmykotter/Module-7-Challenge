@@ -1,9 +1,9 @@
-# Moolah
+# README Generator
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-### description
-Monthly Budget Calculator
+### Description
+The README Generator is a command-line application designed to create professional README files quickly and efficiently. By answering a series of prompts, users can generate a well-structured and comprehensive README for their projects in minutes. Save time and focus on what matters most—building your project!
 
 ### Table of Contents
 
@@ -19,19 +19,19 @@ MIT
 
 
 ### Installation Instructions
-use in web browser
+Clone the repository to your local machine
 
 ### Intended Usage
-personal finance via web browser
+To generate a README file for your project: use git bash, run node index and follow the prompts.
 
 ### Contributing Guidelines
-email with bugs
+Create your own branch, git add ., git commit -m “description of changes”, git push origin branchname and open a pull request.
 
 ### Test Instructions
-via Google Chrome
+To test the file writing functionality, run the application and check that the file is created in the expected location.
 
 ### Questions
 GitHub: Jimmykotter
 
-Email: jimmykotter@gmail.com
+Email: Jimmykotter@gmail.com
 
