@@ -2,34 +2,36 @@
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-## description
-Monthly budget calculator
+### description
+Monthly Budget Calculator
 
-## Table of Contents
+### Table of Contents
 
 - [License](#license)
 - [Installation Instructions](#installation-instructions)
-- [Center](#center)
-- [Color](#color)
+- [Intended Usage](#intended-usage)
+- [Contributing Guidelines](#contributing-guidelines)
+- [Test Instructions](#test-instructions)
+- [Questions](#questions)
 
-## License
+### License
 MIT
 
 
-## Installation Instructions
-none required
+### Installation Instructions
+use in web browser
 
-## Intended Usage
-personal finance via google chrome
+### Intended Usage
+personal finance via web browser
 
-## Contributing Guidelines
-email bugs
+### Contributing Guidelines
+email with bugs
 
-## Test Instructions
-via google chrome
+### Test Instructions
+via Google Chrome
 
-## Questions
-GitHub: jimmykotter
+### Questions
+GitHub: Jimmykotter
 
 Email: jimmykotter@gmail.com
 
