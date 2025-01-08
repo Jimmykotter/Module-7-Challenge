@@ -17,7 +17,6 @@ The README Generator is a command-line application designed to create profession
 ### License
 MIT
 
-
 ### Installation Instructions
 Clone the repository to your local machine
 
@@ -29,6 +28,9 @@ Create your own branch, git add ., git commit -m “description of changes”, g
 
 ### Test Instructions
 To test the file writing functionality, run the application and check that the file is created in the expected location.
+
+### Code Source
+I worked with a tutor during 2 tutor sessions for the duration of this project. The majority of the code found in index.js and generatemarkdown.js was writting with the help of a tutor provided by the coding bootcamp.
 
 ### Questions
 GitHub: Jimmykotter
